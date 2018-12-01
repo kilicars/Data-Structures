@@ -31,7 +31,7 @@
         {
             if (Size == 0)
             {
-                throw new Exception("No elemnts in the heap!");
+                throw new Exception("No elements in the heap!");
             }
             return items[0];
         }
